@@ -82,7 +82,11 @@ This opportunity is open to PhD and Master's degree students, with special excep
 
 **Timeline:** Applicants will be interviewed for the position during Winter 2021 and preparation for the Summer internship is expected to take place during or before Spring 2022. Research mentors will facilitate skills development and project scoping prior to the internship start date. We are also accepting students at an on-going basis that is independent of the Summer internship.
 
-## Application
+## Applications
+<span style="color:gray">*embedded application may not load if you're not signed into your Google account</span>
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSdZ4jxrCH98REVvt-9cm-7Zzh7SOCP8uSs_lANidmfVLec6cw/viewform?embedded=true">
+    <input type="submit" value="Go to form" />
+</form>
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdZ4jxrCH98REVvt-9cm-7Zzh7SOCP8uSs_lANidmfVLec6cw/viewform?embedded=true" width="640" height="382" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Technical Questions
