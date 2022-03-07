@@ -279,7 +279,7 @@ enable_project_categories:  true   # enables categorization of projects into
 enable_software_categories:  true   # enables categorization of software into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
-
+enable_masonry:             true   # enables automatic project cards arangement
 
 # -----------------------------------------------------------------------------
 # Library versions
