@@ -106,6 +106,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  software:
+    output: true
+    permalink: /software/:path/
   people:
     output: true
     permalink: /people/:path/
@@ -272,6 +275,8 @@ enable_darkmode:            true   # enables switching between light/dark modes
 enable_navbar_social:       false  # enables displaying social links in the
                                    # navbar on the about page
 enable_project_categories:  true   # enables categorization of projects into
+                                   # multiple categories
+enable_software_categories:  true   # enables categorization of software into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 
