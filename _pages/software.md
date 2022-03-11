@@ -11,6 +11,17 @@ horizontal: false
 <script src="https://cdn.tailwindcss.com"></script>
 
 <script>
+  function formatDate(date) {
+    var hours = date.getHours();
+    var minutes = date.getMinutes();
+    var ampm = hours >= 12 ? 'pm' : 'am';
+    hours = hours % 12;
+    hours = hours ? hours : 12; // the hour '0' should be '12'
+    minutes = minutes < 10 ? '0'+minutes : minutes;
+    var strTime = hours + ':' + minutes + ' ' + ampm;
+    return (date.getMonth()+1) + "/" + date.getDate() + "/" + date.getFullYear() + "  " + strTime;
+  }
+
   fetch("https://api.github.com/users/jlevy44/repos").then(function(response) {
     return response.json();
   }).then(function(data) {
@@ -25,12 +36,14 @@ horizontal: false
         description = "";
       }
 
+      let updated_at = formatDate(new Date(repo['updated_at']));
+
       str += `
         <tr>
           <td class="whitespace-nowrap border-b border-gray-200 py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6 lg:pl-8"><a target="_blank" href=` + repo['html_url'] + `>` + repo['name'] + `</a></td>
           <td class="whitespace-normal border-b border-gray-200 px-3 py-4 text-sm text-gray-500 hidden sm:table-cell">` + description + `</td>
           <td class="whitespace-wrap border-b border-gray-200 py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6 lg:pl-8"><a target="_blank" href=` + repo['owner']['html_url'] + `>` + repo['owner']['login'] + `</a></td>
-          <td class="whitespace-nowrap border-b border-gray-200 px-3 py-4 text-sm text-gray-500 hidden sm:table-cell">` + repo['updated_at'] + `</td>
+          <td class="whitespace-nowrap border-b border-gray-200 px-3 py-4 text-sm text-gray-500 hidden sm:table-cell">` + updated_at + `</td>
         </tr>
       `
     }
