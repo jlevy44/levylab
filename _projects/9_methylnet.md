@@ -3,6 +3,7 @@ layout: project
 title: MethylNet
 description: an automated and modular deep learning approach for DNA methylation analysis
 img: /assets/img/9_methylnet.jpg
+alt_img: /assets/img/9_methylnet_b.png
 importance: 9
 category: complete
 ---

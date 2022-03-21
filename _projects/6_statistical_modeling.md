@@ -3,6 +3,7 @@ layout: project
 title: ML+Statistics
 description: Integration of Machine Learning with Statistics
 img: /assets/img/6_stats.jpg
+alt_img: /assets/img/6_stats_b.jpeg
 importance: 6
 category: ongoing
 ---

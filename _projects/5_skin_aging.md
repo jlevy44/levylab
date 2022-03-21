@@ -3,6 +3,7 @@ layout: project
 title: Photoaging
 description: Cell Type Specific Components of Photoaging
 img: /assets/img/5_skina.jpg
+alt_img: /assets/img/5_skinb.png
 importance: 5
 category: ongoing
 ---

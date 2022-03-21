@@ -3,6 +3,7 @@ layout: project
 title: CRISPR Off-Target Effects
 description: Low-Cost Oligo Design
 img: /assets/img/8_crispr.png
+alt_img: /assets/img/8_crispr.png
 importance: 8
 category: ongoing
 ---

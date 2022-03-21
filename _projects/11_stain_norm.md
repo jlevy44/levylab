@@ -3,6 +3,7 @@ layout: project
 title: Stain Normalization
 description: standardizing application of staining reagents to leverage external data
 img: /assets/img/11_stain.jpeg
+alt_img: /assets/img/11_stain.jpeg
 importance: 11
 category: ongoing
 ---

@@ -3,6 +3,7 @@ layout: project
 title: virtual trichrome
 description: synthesis of trichrome stains from H&E
 img: /assets/img/2_trichrome.jpeg
+alt_img: /assets/img/vtri.gif
 importance: 2
 category: ongoing
 ---

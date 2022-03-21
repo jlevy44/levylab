@@ -3,6 +3,7 @@ layout: project
 title: pathology reports
 description: natural language processing on pathology reports
 img: /assets/img/3_reportsa.jpeg
+alt_img: /assets/img/3_reportsb.jpeg
 importance: 3
 category: ongoing
 ---

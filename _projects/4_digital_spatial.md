@@ -2,7 +2,8 @@
 layout: project
 title: Tumor Infiltrating Lymphocytes
 description: Spatial Profiling of TILs with Digital Spatial Profiling
-img: /ssets/img/4_digitala.jpeg
+img: /assets/img/4_digitala.jpeg
+alt_img: /assets/img/4_digitala.jpeg
 importance: 4
 category: ongoing
 ---
@@ -22,3 +23,7 @@ Tumor-infiltrating lymphocytes (TIL) are an important prognostic indicator for c
 **Manuscripts**:
 1. Levy, J. J., Bobak, C. A., Nasir-Moin, M., et al. Mixed Effects Machine Learning Models for Colon Cancer Metastasis Prediction using Spatially Localized Immuno-Oncology Markers. Pac Symp Biocomput 27, 175–186 (2022).
 2. Levy, J. J., Bobak, C. A., Nasir-Moin, M., et al. Mixed effects machine learning on spatially localized immuno-oncology markers for colon metastasis prediction. (2021) doi:10.7490/F1000RESEARCH.1118802.1.
+
+<!-- <div id="content">
+            <iframe width="100%" height="100%" frameborder="0" src="/levylab/assets/pdf/f1000research-379546.pdf"></iframe>
+</div> -->

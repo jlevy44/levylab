@@ -3,6 +3,7 @@ layout: project
 title: Multimodal Modeling
 description: Establishing molecular underpinnings of tissue histology to study cancer.
 img: /assets/img/10_multimodala.jpg
+alt_img: /assets/img/10_multimodalb.jpeg
 importance: 10
 category: ongoing
 ---

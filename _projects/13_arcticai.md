@@ -3,6 +3,7 @@ layout: project
 title: ArcticAI
 description: A Deep Learning Platform for Rapid and Accurate Histological Assessment of Intraoperative Tumor Margins
 img: /assets/img/13_arctic_1.jpeg
+alt_img: /assets/img/13_arctic_2.jpeg
 importance: 13
 category: ongoing
 ---

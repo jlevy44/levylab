@@ -3,6 +3,7 @@ layout: project
 title: Federated Learning
 description: Documenting the process of establishing federated collaborations on healthcare data.
 img: /assets/img/12_fedlearn.png
+alt_img: /assets/img/12_fedlearn_b.jpg
 importance: 12
 category: ongoing
 ---

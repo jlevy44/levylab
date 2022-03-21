@@ -3,6 +3,7 @@ layout: project
 title: Autoparis
 description: Automating the Paris System for Urothelial Cacinoma Screening
 img: /assets/img/1_autoparis.jpeg
+alt_img: /assets/img/autoparis.gif
 importance: 1
 category: ongoing
 ---

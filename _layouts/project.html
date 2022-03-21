@@ -27,9 +27,9 @@ layout: default
           </svg>
           <div class="relative text-base mx-auto max-w-prose lg:max-w-none">
             <figure>
-              {% if page.img and page.img != "" %}
+              {% if page.alt_img and page.alt_img != "" %}
                 <div class="aspect-w-12 aspect-h-7 lg:aspect-none">
-                  <img class="rounded-lg shadow-lg object-cover object-center" src="{{ page.img | prepend: site.baseurl | prepend: site.url }}" alt="profile image" width="1184" height="1376">
+                  <img class="rounded-lg shadow-lg object-cover object-center" src="{{ page.alt_img | prepend: site.baseurl | prepend: site.url }}" alt="profile image" width="1184" height="1376">
                 </div>
               {% else %}
                 <div class="aspect-w-12 aspect-h-7 lg:aspect-none">
