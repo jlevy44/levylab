@@ -49,17 +49,17 @@ social: false  # includes social icons at the bottom of the page
     </div>
     <div class="mt-6 prose prose-indigo prose-lg text-gray-500 mx-auto">
       <p>
-        The Levy lab is embedded in the Emerging Diagnostic and Investigative Technologies (EDIT) program in the Department of Pathology and Laboratory Medicine at Dartmouth Hitchcock Medical Center. Professor Joshua Levy serves as Principal Investigator of the lab and Co-Head of the EDIT Machine Learning (ML) Group. The Levy Lab is comprised of undergraduates, Master's, medical, and doctoral students who aspire to advance biomedical research, improve public health and do public good through high throughput computation. Additionally, the EDIT ML program hosts a national summer research program for high school and undergraduate students that provides exposure to biomedical research.
+        The <a href="/levylab/">Levy Lab</a> is embedded in the Emerging Diagnostic and Investigative Technologies (EDIT) program in the Department of Pathology and Laboratory Medicine at Dartmouth Hitchcock Medical Center. Professor Joshua Levy serves as Principal Investigator of the lab and Co-Head of the EDIT Machine Learning (ML) Group. The <a href="/levylab/">Levy Lab</a> is comprised of undergraduates, Master's, medical, and doctoral students who aspire to advance biomedical research, improve public health and do public good through high throughput computation. Additionally, the EDIT ML program hosts a national summer research program for high school and undergraduate students that provides exposure to biomedical research.
       </p>
 
       <br/>
       <blockquote>
-        <p>"I don't know about making super complex systems, but I want to make meaningful technology that makes sense, that solve real-world public health problems."</p>
+        <p>"Emerging technologies informed by and for clinicians have the potential for lasting translational impact."</p>
       </blockquote>
       <br/>
       <br/>
       <figure class="text-center">
-        <img class="w-full rounded-lg" src="assets/img/dartmouth.png" alt="">
+        <img class="w-full rounded-lg" src="assets/img/dartmouth.jpeg" alt="">
         <br/>
         <figcaption>
           <a href="https://www.google.com/maps?q=481RO2+Borwell+4th+Floor+1+Medical+Center+Drive+Lebanon,+NH+03755">
@@ -90,7 +90,7 @@ social: false  # includes social icons at the bottom of the page
   <div class="text-lg max-w-prose mx-auto">
     <br/>
     <h1>
-      <span class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Partners</span>
+      <span class="mt-2 block text-3xl text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">Affiliations</span>
     </h1>
     <br/>
     <div class=" h-auto grid grid-cols-1 gap-4 sm:grid-cols-2">
