@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Sanjay Jacob
-img: /assets/img/Sanjay_Jacob.HEIC
+img: placeholder
 profile:
   align: right
-  image: Sanjay_Jacob.HEIC
+  image:
 news: false
 social: false
 type: "High School Summer"

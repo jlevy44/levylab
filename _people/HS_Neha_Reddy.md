@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Neha Reddy
-img: /assets/img/Neha_Reddy.jpg
+img: placeholder
 profile:
   align: right
-  image: Neha_Reddy.jpg
+  image: 
 news: false
 social: false
 type: "High School Summer"
@@ -18,7 +18,7 @@ description: Summer Intern 2022
 Advanced Research
 
 **About Me:**
-  
+
 
 **Project/Research Interests:**
 Oncology and Genomics

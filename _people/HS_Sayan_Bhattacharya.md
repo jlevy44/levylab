@@ -1,10 +1,10 @@
 ---
 layout: people
 title: Sayan Bhattacharya
-img: /assets/img/Sayan_Bhattacharya.jpg
+img: placeholder
 profile:
   align: right
-  image: Sayan_Bhattacharya.jpg
+  image:
 news: false
 social: false
 type: "High School Summer"
