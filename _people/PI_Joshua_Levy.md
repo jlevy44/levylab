@@ -9,7 +9,7 @@ news: false
 social: false
 type: "Principal Investigator"
 lab_type: "Current"
-description: Lab Director & Co-Director of EDIT Machine Learning Group
+description: Levy Lab Director & Co-Director of EDIT Machine Learning Group
 ---
 [Curriculum Vitae](/levylab/assets/pdf/levy_cv_geisel_latest.pdf)
 
