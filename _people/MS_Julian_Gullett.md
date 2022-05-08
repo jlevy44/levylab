@@ -8,6 +8,6 @@ profile:
 news: false
 social: false
 type: "Master's"
-lab_type: "Current"
+lab_type: "Previous"
 description: Recent QBS Master's Graduate
 ---

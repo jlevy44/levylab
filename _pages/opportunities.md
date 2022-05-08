@@ -95,3 +95,13 @@ This opportunity is open to PhD and Master's degree students, with special excep
 ### Advanced Research Track
 <a href="/levylab/assets/data/technical_questions_data.zip" download>Click to Download Technical Questions Data</a>
 <iframe src="/levylab/assets/pdf/EDIT_ML_Intern_Technical_Questions.pdf" style="width:800px; height:800px;"></iframe>
+
+## EDIT ML Summer Program Flyers
+<div class="row">
+  <div class="column">
+    <img src="/levylab/assets/img/22_student_summer.jpg" width="100%">
+  </div>
+  <div class="column">
+    <img src="/levylab/assets/img/22_general_summer.jpg" width="100%">
+  </div>
+</div>

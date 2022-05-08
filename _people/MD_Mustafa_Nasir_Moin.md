@@ -7,7 +7,7 @@ profile:
   image:
 news: false
 social: false
-type: "Medical Student"
+type: "Master's"
 lab_type: "Previous"
 description: Prospective Medical Student
 ---

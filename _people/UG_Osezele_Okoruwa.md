@@ -8,6 +8,6 @@ profile:
 news: false
 social: false
 type: "Undergraduates"
-lab_type: "Current"
+lab_type: "Previous"
 description: Undergraduate Researcher
 ---

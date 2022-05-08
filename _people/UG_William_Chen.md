@@ -1,6 +1,6 @@
 ---
 layout: people
-title: Jean Yuan
+title: William Chen
 img: placeholder
 profile:
   align: right
@@ -8,6 +8,6 @@ profile:
 news: false
 social: false
 type: "Undergraduates"
-lab_type: "Previous"
+lab_type: "Current"
 description: Undergraduate Researcher
 ---

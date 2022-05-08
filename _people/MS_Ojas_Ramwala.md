@@ -1,6 +1,6 @@
 ---
 layout: people
-title: Sean McOsker
+title: Ojas Ramwala 
 img: placeholder
 profile:
   align: right
@@ -8,6 +8,6 @@ profile:
 news: false
 social: false
 type: "Master's"
-lab_type: "Previous"
-description: QBS Master's Student 
+lab_type: "Current"
+description: NYU Master’s Graduate
 ---

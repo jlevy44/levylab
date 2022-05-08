@@ -2,7 +2,7 @@
 layout: page
 title: PolyCRACKER
 description: unsupervised partitioning of polyploid subgenomes by signatures of repetitive DNA evolution  
-img: assets/img/polycracker.webp
+img: assets/img/polycracker.jpg
 importance: 3
 category: complete
 ---

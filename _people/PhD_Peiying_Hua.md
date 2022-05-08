@@ -1,13 +1,13 @@
 ---
 layout: people
-title: Sean McOsker
+title: Peiying Hua
 img: placeholder
 profile:
   align: right
   image:
 news: false
 social: false
-type: "Master's"
-lab_type: "Previous"
-description: QBS Master's Student 
+type: "PhD Rotation Students"
+lab_type: "Current"
+description: QBS PhD Student
 ---
