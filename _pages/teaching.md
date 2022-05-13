@@ -7,6 +7,7 @@ nav: true
 ---
 
 Courses Taught:  
+* QBS185 2022: MS Capstone Experience  
 * QBS177 2022: Guest lecture- introduction to neural networks   
 * QBS195 2022: Participation in scientific research  
 * QBS110.5 2021: Integrative biomedical sciences project mentor    
