@@ -7,7 +7,7 @@ profile:
   image:
 news: false
 social: false
-type: "PhD Rotation Students"
+type: "PhD Students"
 lab_type: "Current"
-description: Dartmouth MD PhD Student
+description: Dartmouth MD PhD Rotation Student
 ---

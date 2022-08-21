@@ -7,7 +7,7 @@ profile:
   image:
 news: false
 social: false
-type: "PhD Rotation Students"
-lab_type: "Previous"
+type: "PhD Students"
+lab_type: "Current"
 description: QBS PhD Student
 ---

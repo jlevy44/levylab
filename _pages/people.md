@@ -4,7 +4,7 @@ permalink: /people/
 title: people
 description:
 nav: true
-person_types: ["Principal Investigator","Collaborators","PhD","PhD Rotation Students","Medical Students","Master's","Undergraduates","High School Summer"]
+person_types: ["Principal Investigator","Collaborators","PhD","PhD Students","Medical Students","Master's","Undergraduates","High School Summer"]
 lab_types: ["Current","Previous"]
 ---
 
