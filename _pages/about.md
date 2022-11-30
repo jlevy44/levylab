@@ -9,7 +9,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 <!-- Tailwind CSS -->
-<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://cdn.tailwindcss.com/3.0.0"></script>
 
 <div class="relative py-16 bg-white overflow-hidden">
   <div class="hidden lg:block lg:absolute lg:inset-y-0 lg:h-full lg:w-full">

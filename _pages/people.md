@@ -9,7 +9,7 @@ lab_types: ["Current","Previous"]
 ---
 
 <!-- Tailwind CSS -->
-<script src="https://cdn.tailwindcss.com"></script>
+<script src="https://cdn.tailwindcss.com/3.0.0"></script>
 
 <!-- PI -->
 <div class="bg-white">
