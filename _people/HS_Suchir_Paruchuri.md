@@ -1,10 +1,10 @@
 ---
 layout: people
-title: Gnan Suchir
-img: /assets/img/blank_profile.png
+title: Suchir Paruchuri
+img: /assets/img/suchir-pic.jpeg
 profile:
   align: right
-  image: blank_profile.png
+  image: suchir-pic.jpeg
 news: false
 social: false
 type: "High School Summer"
