@@ -1,6 +1,6 @@
 ---
 layout: people
-title: David X
+title: David Li
 img: /assets/img/David_Li.jpg
 profile:
   align: right
