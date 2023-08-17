@@ -1,6 +1,6 @@
 ---
 layout: people
-title: Marietta Montivero
+title: Alos Diallo
 img: placeholder
 profile:
   align: right
@@ -9,5 +9,5 @@ news: false
 social: false
 type: "PhD Students"
 lab_type: "Current"
-description: Dartmouth MD PhD Student
+description: QBS PhD Student
 ---

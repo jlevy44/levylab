@@ -1,6 +1,6 @@
 ---
 layout: people
-title: Marietta Montivero
+title: Thadryan Sweeney
 img: placeholder
 profile:
   align: right
@@ -8,6 +8,6 @@ profile:
 news: false
 social: false
 type: "PhD Students"
-lab_type: "Current"
-description: Dartmouth MD PhD Student
+lab_type: "Previous"
+description: QBS PhD Rotation Student
 ---
