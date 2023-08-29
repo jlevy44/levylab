@@ -1,24 +1,25 @@
 ---
 layout: people
 title: Sayan Bhattacharya
-img: placeholder
+img: /assets/img/Sayan_Bhattacharya.jpeg
 profile:
   align: right
-  image:
+  image: Sayan_Bhattacharya.jpeg
 news: false
 social: false
 type: "High School Summer"
 lab_type: "Current"
-description: Summer Intern 2022
+description: Summer Intern 2023
 ---
 
 **School:** Hanover High School
 
 **EDIT ML Program Track:**
-Skills Development
+Advanced Research
 
 **About Me:**
-I am a rising junior at Hanover High School who is curious to explore the applications of AI/ML in the biomedical field. In my free time, I enjoy playing the piano and the guitar. I am a black belt in Tae-Kwon-Do, and am also on my school's soccer and rowing teams. I am excited to participate in this program and eager to learn as much as possible this summer!
+Hi! My name is Sayan Bhattacharya, and I am a rising senior at Hanover High School. This will be my second year participating in the EDIT ML internship program, and I am excited to learn more about machine learning and its applications to biomedical research. In my free time, I play the piano and the guitar. I also love biking and playing soccer.
 
 **Project/Research Interests:**
-Maybe ML/AI, but I am open to anything!
+I would be open to, and excited to, work on projects in any and all fields in order to learn as much as possible this summer.
+    
