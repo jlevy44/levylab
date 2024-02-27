@@ -23,7 +23,7 @@ nav: true
     </head>
     <body>
         <div id="content">
-            <iframe width="100%" height="100%" frameborder="0" src="/levylab/assets/pdf/levy_cv_geisel_latest.pdf"></iframe>
+            <iframe width="100%" height="100%" frameborder="0" src="/levylab/assets/pdf/levy_cv_cedars_latest.pdf"></iframe>
         </div>
     </body>
 </html>
