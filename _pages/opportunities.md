@@ -19,8 +19,8 @@ Please feel free to reach out by email either to Dr. Louis Vaickus at louis.j.va
 [Apply Here](#applications)
 
 **Timeline:**
-- 2/10-4/15: interviews are conducted (deadline recently extended from 3/15 to 4/15)  
-- 4/15: latest day to submit an application  
+- 3/25: latest day to submit an application  
+- 2/10-4/1: interviews are conducted 
 - 4/15-6/15: decisions and onboarding  
 
 ## Internship at DHMC Department of Pathology and Laboratory Medicine
