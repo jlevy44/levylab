@@ -69,7 +69,6 @@ Students will work on projects including but not limited to:
 The Levy Lab (https://geiselmed.dartmouth.edu/epidemiology/profile/joshua-levy-phd/) is partnering with the company Guardant Health (https://guardanthealth.com/) to host a bioinformatics and genomics focused internship for a Summer Capstone research project with research publication potential. The intern will be co-mentored by Joshua Levy, faculty in the Departments of Pathology and Dermatology at Dartmouth Hitchcock Medical Center, and Sean Gordon, Bioinformatics Manager at Guardant Health. Students will work on projects including but not limited to:
 * Establish circulating tumor biomarkers predictive of response to therapy for optimal selection of therapy through application of machine learning methodologies on omics data.
 * Biomedical text mining using Natural Language Processing.  
-﻿
 
 This opportunity is open to PhD and Master's degree students, with special exceptions made for undergraduates.
 
