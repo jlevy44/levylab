@@ -14,7 +14,7 @@ The Department of Pathology and Laboratory Medicine at Dartmouth-Hitchcock Medic
 
 If you are interested in this opportunity, please fill out an internship application form here: [Application](https://jlevy44.github.io/levylab/opportunities/#applications) or share a CV/Cover Letter with Joshua Levy or Louis Vaickus using the emails below.
 
-Please feel free to reach out by email either to Dr. Louis Vaickus at louis.j.vaickus@hitchcock.org or Prof. Joshua Levy at joshua.j.levy@hitchcock.org or joshua.j.levy@dartmouth.edu if you have any follow up questions.
+Please feel free to reach out by email either to Dr. Louis Vaickus at louis.j.vaickus@hitchcock.org or Prof. Joshua Levy at joshua.j.levy@dartmouth.edu if you have any follow up questions.
 
 [Apply Here](#applications)
 
