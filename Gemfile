@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
+    gem 'uri'
+    gem 'google-protobuf'
     gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-diagrams'

@@ -14,9 +14,9 @@ sudo: false # route your build to the container-based infrastructure for a faste
 
 cache: bundler # caching bundler gem packages will speed up build
 
+before_install:
+  - gem install bundler
+
 # Optional: disable email notifications about the outcome of your builds
 notifications:
   email: false
-
-before_install:
-  - gem install bundler
