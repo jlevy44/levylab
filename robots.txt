@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://localhost:4000/levylab/sitemap.xml
+Sitemap: https://jlevy44.github.io/levylab/sitemap.xml
