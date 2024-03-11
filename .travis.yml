@@ -17,3 +17,6 @@ cache: bundler # caching bundler gem packages will speed up build
 # Optional: disable email notifications about the outcome of your builds
 notifications:
   email: false
+
+before_install:
+  - gem install bundler
