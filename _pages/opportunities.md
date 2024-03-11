@@ -19,7 +19,7 @@ Please feel free to reach out by email either to Dr. Louis Vaickus at louis.j.va
 [Apply Here](#applications)
 
 **Timeline:**
-- 3/25: latest day to submit an application  
+- 3/25: latest day to submit an application (deadline will likely be extended to 4/15) 
 - 2/10-4/1: interviews are conducted 
 - 4/15-6/15: decisions and onboarding  
 
