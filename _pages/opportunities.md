@@ -19,9 +19,13 @@ Please feel free to reach out by email either to Dr. Louis Vaickus at louis.j.va
 [Apply Here](#applications)
 
 **Timeline:**
-- 3/25: latest day to submit an application (deadline will likely be extended to 4/15) 
-- 2/10-4/1: interviews are conducted 
-- 4/15-6/15: decisions and onboarding  
+<ul>
+  <li>4/15: latest day to submit an application <b>(deadline now extended from 3/25)</b></li>
+  <li>2/10-4/25: interviews are conducted</li>
+  <li>3/27: Early applicant decisions</li>
+  <li>3/27: Final decisions</li>
+  <li>3/15-6/15: Onboarding</li>
+</ul>
 
 ## Internship at DHMC Department of Pathology and Laboratory Medicine
 The Department of Pathology and Laboratory Medicine at Dartmouth-Hitchcock Medical Center (Emerging Diagnostic and Investigative Technologies; EDIT) Machine Learning program has been developing, validating, and scaling artificial intelligence technologies that aim to improve clinical efficiency and patient outcomes. Our group has developed computational methods to assess and integrate a wide variety of modalities, ranging from whole slide images, to pathology text reports, metagenomic sequences, and multi-omics datatypes. Opportunities exist to develop skills to analyze these high dimensional datatypes using R, Python, and high-performance computing, communicate their findings to a clinical research audience, and gain experience in scientific writing (spearheading potential research publications).
