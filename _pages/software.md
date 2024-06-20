@@ -8,50 +8,87 @@ display_categories: [ongoing, complete]
 horizontal: false
 ---
 
-<!-- pages/software.md -->
-<div class="software">
-{%- if site.enable_software_categories and page.display_categories %}
-  <!-- Display categorized software -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_software = site.software | where: "category", category -%}
-  {%- assign sorted_software = categorized_software | sort: "importance" %}
-  <!-- Generate cards for each software -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for software in sorted_software -%}
-      {% include software_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for software in sorted_software -%}
-      {% include software.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
+<script src="https://cdn.tailwindcss.com"></script>
 
-{%- else -%}
-<!-- Display software without categories -->
-  {%- assign sorted_software = site.software | sort: "importance" -%}
-  <!-- Generate cards for each software -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for software in sorted_software -%}
-      {% include software_horizontal.html %}
-    {%- endfor %}
+<script>
+  function formatDate(date) {
+    var hours = date.getHours();
+    var minutes = date.getMinutes();
+    var ampm = hours >= 12 ? 'pm' : 'am';
+    hours = hours % 12;
+    hours = hours ? hours : 12; // the hour '0' should be '12'
+    minutes = minutes < 10 ? '0'+minutes : minutes;
+    var strTime = hours + ':' + minutes + ' ' + ampm;
+    return (date.getMonth()+1) + "/" + date.getDate() + "/" + date.getFullYear() + "  " + strTime;
+  }
+
+  fetch("https://api.github.com/users/jlevy44/repos").then(function(response) {
+    return response.json();
+  }).then(function(data) {
+    console.log(data);
+    var str = "";
+
+    for (let i = 0; i < data.length; i++) {
+      repo = data[i];
+
+      let description = repo['description'];
+      if (description == null){
+        description = "";
+      }
+
+      let updated_at = formatDate(new Date(repo['updated_at']));
+
+      str += `
+        <tr>
+          <td class="whitespace-nowrap border-b border-gray-200 py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6 lg:pl-8"><a target="_blank" href=` + repo['html_url'] + `>` + repo['name'] + `</a></td>
+          <td class="whitespace-wrap border-b border-gray-200 py-4 pl-4 pr-3 text-sm font-medium text-gray-900 sm:pl-6 lg:pl-8"><a target="_blank" href=` + repo['owner']['html_url'] + `>` + repo['owner']['login'] + `</a></td>
+          <td class="whitespace-nowrap border-b border-gray-200 px-3 py-4 text-sm text-gray-500 hidden sm:table-cell">` + updated_at + `</td>
+          <td class="whitespace-normal border-b border-gray-200 px-3 py-4 text-sm text-gray-500 hidden sm:table-cell">` + description + `</td>
+        </tr>
+      `
+    }
+
+    document.getElementById(
+        'repos_table_body').innerHTML = str;
+
+  }).catch(function() {
+    console.log("Booo");
+  });
+</script>
+
+<!-- This example requires Tailwind CSS v2.0+ -->
+<div class="px-4 sm:px-6 lg:px-8">
+  <!-- <div class="sm:flex sm:items-center">
+    <div class="sm:flex-auto">
+      <h1 class="text-xl font-semibold text-gray-900">Users</h1>
+      <p class="mt-2 text-sm text-gray-700">A list of all the users in your account including their name, title, email and role.</p>
+    </div>
+    <div class="mt-4 sm:mt-0 sm:ml-16 sm:flex-none">
+      <button type="button" class="inline-flex items-center justify-center rounded-md border border-transparent bg-indigo-600 px-4 py-2 text-sm font-medium text-white shadow-sm hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 sm:w-auto">Add user</button>
+    </div>
+  </div> -->
+  <div class="mt-8 flex flex-col">
+    <div class="-my-2 -mx-4 sm:-mx-6 lg:-mx-8">
+      <div class="inline-block min-w-full py-2 align-middle">
+        <div class="shadow-sm ring-1 ring-black ring-opacity-5">
+          <table class="min-w-full border-separate" style="border-spacing: 0">
+            <thead class="bg-gray-50">
+              <tr>
+                <th scope="col" class="sticky top-0 z-10 border-b border-gray-300 bg-gray-50 bg-opacity-75 py-3.5 pl-4 pr-3 text-left text-sm font-semibold text-gray-900 backdrop-blur backdrop-filter sm:pl-6 lg:pl-8">Name</th>
+                <th scope="col" class="sticky top-0 z-10 hidden border-b border-gray-300 bg-gray-50 bg-opacity-75 px-3 py-3.5 text-left text-sm font-semibold text-gray-900 backdrop-blur backdrop-filter lg:table-cell">Owner</th>
+                <th scope="col" class="sticky top-0 z-10 border-b border-gray-300 bg-gray-50 bg-opacity-75 px-3 py-3.5 text-left text-sm font-semibold text-gray-900 backdrop-blur backdrop-filter">Last Updated</th>
+                <th scope="col" class="sticky top-0 z-10 hidden border-b border-gray-300 bg-gray-50 bg-opacity-75 px-3 py-3.5 text-left text-sm font-semibold text-gray-900 backdrop-blur backdrop-filter sm:table-cell">Description</th>
+                <!-- <th scope="col" class="sticky top-0 z-10 border-b border-gray-300 bg-gray-50 bg-opacity-75 px-3 py-3.5 text-left text-sm font-semibold text-gray-900 backdrop-blur backdrop-filter">License</th> -->
+                <!-- <th scope="col" class="sticky top-0 z-10 border-b border-gray-300 bg-gray-50 bg-opacity-75 py-3.5 pr-4 pl-3 backdrop-blur backdrop-filter sm:pr-6 lg:pr-8">
+                  <span class="sr-only">Edit</span>
+                </th> -->
+              </tr>
+            </thead>
+            <tbody id="repos_table_body" class="bg-white">
+            </tbody>
+          </table>
+        </div>
+      </div>
     </div>
   </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for software in sorted_software -%}
-      {% include software.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
 </div>
