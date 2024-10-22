@@ -1,10 +1,10 @@
 ---
 layout: people
-title: Alim A.
-img: /assets/img/blank_profile.png
+title: Alim A. Oraz
+img: /assets/img/Alim_Oraz_.jpeg
 profile:
   align: right
-  image: blank_profile.png
+  image: Alim_Oraz_.jpeg
 news: false
 social: false
 type: "High School Summer"

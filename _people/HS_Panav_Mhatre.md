@@ -1,10 +1,10 @@
 ---
 layout: people
-title: Panav Yogesh
+title: Panav Mhatre
 img: /assets/img/blank_profile.png
 profile:
   align: right
-  image: blank_profile.png
+  image: Panav_Mhatre.png
 news: false
 social: false
 type: "High School Summer"
