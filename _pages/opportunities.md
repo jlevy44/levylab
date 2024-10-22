@@ -50,7 +50,7 @@ Students will work on projects including but not limited to:
 
 [Apply Here](#applications)
 
-**Timeline:** Applicants will be interviewed for the position during Winter 2023 and preparation for the Summer internship is expected to take place during or before Spring 2024. Research mentors will facilitate skills development and project scoping prior to the internship start date. We are also accepting students at an on-going basis that is independent of the Summer internship.
+**Timeline:** Applicants will be interviewed for the position during Winter 2024 and preparation for the Summer internship is expected to take place during or before Spring 2025. Research mentors will facilitate skills development and project scoping prior to the internship start date. We are also accepting students at an on-going basis that is independent of the Summer internship.
 
 ## Internship at The Levy Lab and DHMC Department of Dermatology
 The Levy Lab (https://geiselmed.dartmouth.edu/epidemiology/profile/joshua-levy-phd/), in collaboration with the Department of Dermatology at Dartmouth Hitchcock Medical Center, is looking for talented students to learn how to develop and apply artificial intelligence technologies to prevent and treat skin cancer and other medical conditions of interest to our research group. Our group has developed computational methods to assess and integrate a wide variety of modalities, ranging from whole slide images, to pathology text reports, metagenomic sequences, and multi-omics datatypes. Opportunities exist to develop skills to analyze these high dimensional datatypes using R, Python, and high-performance computing, communicate their findings to a clinical research audience, and gain experience in scientific writing (spearheading potential research publications).
@@ -67,7 +67,7 @@ Students will work on projects including but not limited to:
 
 [Apply Here](#applications)
 
-**Timeline:** Applicants will be interviewed for the position during Winter 2023 and preparation for the Summer internship is expected to take place during or before Spring 2024. Research mentors will facilitate skills development and project scoping prior to the internship start date. We are also accepting students at an on-going basis that is independent of the Summer internship.
+**Timeline:** Applicants will be interviewed for the position during Winter 2024 and preparation for the Summer internship is expected to take place during or before Spring 2025. Research mentors will facilitate skills development and project scoping prior to the internship start date. We are also accepting students at an on-going basis that is independent of the Summer internship.
 
 ## Industry/Academia Bioinformatics and Genomics Internship
 The Levy Lab (https://geiselmed.dartmouth.edu/epidemiology/profile/joshua-levy-phd/) is partnering with the company Guardant Health (https://guardanthealth.com/) to host a bioinformatics and genomics focused internship for a Summer Capstone research project with research publication potential. The intern will be co-mentored by Joshua Levy, faculty in the Departments of Pathology and Dermatology at Dartmouth Hitchcock Medical Center, and Sean Gordon, Bioinformatics Manager at Guardant Health. Students will work on projects including but not limited to:
@@ -82,7 +82,7 @@ This opportunity is open to PhD and Master's degree students, with special excep
 
 [Apply Here](#applications)
 
-**Timeline:** Applicants will be interviewed for the position during Winter 2023 and preparation for the Summer internship is expected to take place during or before Spring 2024. Research mentors will facilitate skills development and project scoping prior to the internship start date. We are also accepting students at an on-going basis that is independent of the Summer internship.
+**Timeline:** Applicants will be interviewed for the position during Winter 2024 and preparation for the Summer internship is expected to take place during or before Spring 2025. Research mentors will facilitate skills development and project scoping prior to the internship start date. We are also accepting students at an on-going basis that is independent of the Summer internship.
 
 ## Applications
 <span style="color:gray">*embedded application may not load if you're not signed into your Google account</span>
