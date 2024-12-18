@@ -26,8 +26,8 @@ Please note we are developing a new website with an updated application portal.
 
 **Timeline:**
 <ul>
-  <li>4/15: latest day to submit an application <b>(deadline now extended from 3/25)</b></li>
-  <li>2/10-4/22: interviews are conducted. Update: Final interviews to be conducted week of 4/15 due to large number of applications.</li>
+  <li>2/28: latest day to submit an application</li>
+  <li>2/10-4/22: interviews are conducted.</li>
   <li>3/27: Early applicant decisions</li>
   <li>4/15-4/22: Final decisions</li>
   <li>4/15-6/15: Onboarding</li>
@@ -100,7 +100,8 @@ This opportunity is open to PhD and Master's degree students, with special excep
 ## Technical Questions
 ### Skills Development Track
 <iframe src="/levylab/assets/pdf/EDIT_ML_Intern_Technical_Questions_skills_development.pdf" style="width:800px; height:800px;"></iframe>
-### Advanced Research Track
+
+### Advanced Research Track  
 <a href="/levylab/assets/data/technical_questions_data.zip" download>Click to Download Technical Questions Data</a>
 <iframe src="/levylab/assets/pdf/EDIT_ML_Intern_Technical_Questions.pdf" style="width:800px; height:800px;"></iframe>
 
