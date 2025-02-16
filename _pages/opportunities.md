@@ -6,11 +6,11 @@ description:
 nav: true
 ---
 [Apply for Positions Here!](#applications)
-## EDIT ML High School Summer Internship Program
+## EDIT AI High School Summer Internship Program
 <p align="center">
     <img src="/levylab/assets/img/edit_ml_website.jpg" width="90%">
 </p>
-The Department of Pathology and Laboratory Medicine at Dartmouth-Hitchcock Medical Center (Emerging Diagnostic and Investigative Technologies; EDIT) Machine Learning program has been developing, validating, and scaling artificial intelligence technologies that aim to improve clinical efficiency and patient outcomes. Our group has developed computational methods to assess and integrate a wide variety of modalities, ranging from whole slide images, to pathology text reports, metagenomic sequences, graphs, electronic health records, and multi-omics datatypes. Opportunities exist to develop skills to analyze these high dimensional datatypes using R, Python, and high-performance computing, communicate their findings to a clinical research audience, and gain experience in scientific writing (spearheading potential research publications). Through a series of lectures/seminars, guided projects, and IRB supported basic research, interns develop algorithms to explore diagnostic spaces in pathology from cancer detection, to gigapixel image manipulation, to text prediction, amongst many others. We are looking for summer interns / undergraduate researchers with a background in CS, a basic familiarity/exposure in deep learning / machine learning pipelines, and an enthusiasm for doing public good through high-throughput computation. Included here is a small representative list of the dozens of projects in development in the EDIT ML group: [Projects](https://jlevy44.github.io/levylab/projects/).  
+The Department of Pathology and Laboratory Medicine at Dartmouth-Hitchcock Medical Center (Emerging Diagnostic and Investigative Technologies; EDIT) Machine Learning program has been developing, validating, and scaling artificial intelligence technologies that aim to improve clinical efficiency and patient outcomes. Our group has developed computational methods to assess and integrate a wide variety of modalities, ranging from whole slide images, to pathology text reports, metagenomic sequences, graphs, electronic health records, and multi-omics datatypes. Opportunities exist to develop skills to analyze these high dimensional datatypes using R, Python, and high-performance computing, communicate their findings to a clinical research audience, and gain experience in scientific writing (spearheading potential research publications). Through a series of lectures/seminars, guided projects, and IRB supported basic research, interns develop algorithms to explore diagnostic spaces in pathology from cancer detection, to gigapixel image manipulation, to text prediction, amongst many others. We are looking for summer interns / undergraduate researchers with a background in CS, a basic familiarity/exposure in deep learning / machine learning pipelines, and an enthusiasm for doing public good through high-throughput computation. Included here is a small representative list of the dozens of projects in development in the EDIT AI group: [Projects](https://jlevy44.github.io/levylab/projects/).  
 
 
 If you have any follow up questions, please feel free to reach out by email to: 
@@ -93,7 +93,7 @@ Students will work on projects including but not limited to:
 <a href="/levylab/assets/data/technical_questions_data.zip" download>Click to Download Technical Questions Data</a>
 <iframe src="/levylab/assets/pdf/EDIT_ML_Intern_Technical_Questions.pdf" style="width:800px; height:800px;"></iframe>
 
-## EDIT ML Summer Program Flyers
+## EDIT AI Summer Program Flyers
 <div class="row">
   <div class="column">
     <img src="/levylab/assets/img/22_student_summer.jpg" width="100%">
