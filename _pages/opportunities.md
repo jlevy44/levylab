@@ -29,7 +29,7 @@ Alternatively, you can use our old application portal: [Apply Here](#application
 
 **Timeline:**
 <ul>
-  <li>2/28: latest day to submit an application</li>
+  <li>4/15: latest day to submit an application</li>
   <li>2/10-4/22: interviews are conducted.</li>
   <li>3/27: Early applicant decisions</li>
   <li>4/15-4/22: Final decisions</li>
